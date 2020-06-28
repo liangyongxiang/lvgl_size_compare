@@ -1,0 +1,8 @@
+[submodule "lv_port_stm32f429_disco_v7"]
+	path = lv_port_stm32f429_disco_v7
+	url = https://github.com/liangyongxiang/lv_port_stm32f429_disco.git
+	branch = lvgl_v7_size_test
+[submodule "lv_port_stm32f429_disco_v6"]
+	path = lv_port_stm32f429_disco_v6
+	url = https://github.com/liangyongxiang/lv_port_stm32f429_disco.git
+	branch = lvgl_v6_size_test
